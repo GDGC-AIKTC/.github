@@ -2,7 +2,11 @@
 
 ![Logo](./logo.svg)
 
-### Empowering students to learn, grow, and make an impact through technology!
+<h3>
+  <p align="center">
+    Empowering students to learn, grow, and make an impact through technology!
+  </p>
+</h3>
 
 ---
 
