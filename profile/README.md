@@ -1,5 +1,7 @@
 # 👋 Welcome to Google Developer Group on Campus (GDGC) - AIKTC's Official GitHub Page!
 
+![Logo](./logo.svg)
+
 ### Empowering students to learn, grow, and make an impact through technology!
 
 ---
